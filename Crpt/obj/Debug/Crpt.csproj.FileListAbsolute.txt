@@ -1,0 +1,9 @@
+C:\Users\grino\source\repos\Crpt\Crpt\bin\Debug\Crpt.exe.config
+C:\Users\grino\source\repos\Crpt\Crpt\bin\Debug\Crpt.exe
+C:\Users\grino\source\repos\Crpt\Crpt\bin\Debug\Crpt.pdb
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.csprojAssemblyReference.cache
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.Properties.Resources.resources
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.csproj.GenerateResource.cache
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.exe
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.pdb
+C:\Users\grino\source\repos\Crpt\Crpt\obj\Debug\Crpt.Form1.resources
